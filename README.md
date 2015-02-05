@@ -4,3 +4,5 @@ Le chtoubidou sait tout faire. Comme outil de test, c'est l'outil qu'il vous fau
 Plus besoin de développeurs, pensez à quelque chose et il vous le fait !
 
 En plus c'est pas cher !
+
+![meme chtoubidou](https://raw.githubusercontent.com/rlespinasse/chtoubidou/master/chtoubidou.png)
