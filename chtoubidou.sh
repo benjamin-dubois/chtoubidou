@@ -5,4 +5,4 @@
 # Plus besoin de développeurs, pensez à quelque chose et il vous le fait !
 # En plus c'est pas cher !
 
-echo "Voilà, c'est fait"
+echo "Success !"
